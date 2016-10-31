@@ -84,7 +84,7 @@
 			</div>
 			<div id="menu">
 				<h2>How Bar Works</h2>
-				<p>Check out how we draw the site's <a href="localhost:8080/Bar/mecanismo.jsp">mechanism</a>.</p>
+				<p>Check out how we draw the site's <a href="mecanismo.jsp">mechanism</a>.</p>
 				<!-- <form action="" method="get" accept-charset="utf-8">
 					<p><input type="submit" value="Details"></input></p>
 				</form>-->
@@ -101,7 +101,7 @@
 				<li><a href="#">Contact</a></li>
 			</ul>
 			<div class="left"><p>Copyright © Bar Code Netbar </p></div>
-			<div class="right"><p><a href="http://www.mejoresplantillasgratis.es" target="_blank">Credits</a></p></div><div class="clear"></div>
+			<div class="right"><p><a href="crdits">Credits</a></p></div><div class="clear"></div>
 		</div>
 	</div>
 </div>

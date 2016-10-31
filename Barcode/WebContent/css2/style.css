@@ -255,6 +255,22 @@ p {
 	padding-top: 22px
 }	
 
+#mecanismo {
+	/*text-align: left;
+	margin: auto;
+	width: 749px;
+	position: relative;*/
+		
+	background-color:#610a01;
+	width: 291px;
+	height: 300px;	
+	/*border: 1px solid #97321D;*/
+	padding-left: 40px;
+	padding-right: 8px;	
+	padding-top: 22px
+}	
+
+
 #menu h2 {
 	margin-left: -38px;
 	font-weight: normal;

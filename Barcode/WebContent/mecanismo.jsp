@@ -4,6 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script type='text/javascript' src='scripts.js'></script>
+
+
 <title>Mechanism</title>
 <link rel="stylesheet" href="./css2/style.css" type="text/css" charset="utf-8" />
 </head>
@@ -34,17 +37,16 @@
 	
 <!-- ----------------------------------------------------------------------------- -->
 
-<div id="welcome">
-	<h2 class="guilded"><span>How Bar Works</span></h2>
+<div id="wellcome">
+	<h2 class="guilded"><span>How The Bar Works</span></h2>
 	<p>Lets start with how you ask.</p>
 	<ul>
-			<li>Create your account on Bar Code Netbar</li>
-			<li>Choose appetizer and drinks</li>
+			<li><a href="javascript:mostraImagem(0)" id="id">Create your account on Bar Code Netbar</a></li>
+			<li><a href="javascript:mostraImagem(1)" id="id">Choose appetizer and drinks</li>
 			<li>Pay attention if someone ask for the same. You will get discounts</li>
 			<li>Pay attention for delay on "Bar Code Time to Find Ingredients"</li>
 			<li>Pay attention for delay on "Bar Code Time to Prepare Food"</li>
-			<li>Pay attention for Date/Hour to take your order done</li>
-			
+			<li>Pay attention for Date/Hour to take your order done</li>	
 			<li>Pay online using PayPal, Credit Cards etc</li>
 	</ul>
 </div>
@@ -70,4 +72,8 @@
 	</div>
 </div>
 </body>
+<!-- ====================================================================================================== -->
+
+
+
 </html>
