@@ -42,12 +42,11 @@
 	<p>Lets start with how you ask.</p>
 	<ul>
 			<li><a href="javascript:mostraImagem(0)" id="id">Create your account on Bar Code Netbar</a></li>
-			<li><a href="javascript:mostraImagem(1)" id="id">Choose appetizer and drinks</li>
-			<li>Pay attention if someone ask for the same. You will get discounts</li>
-			<li>Pay attention for delay on "Bar Code Time to Find Ingredients"</li>
-			<li>Pay attention for delay on "Bar Code Time to Prepare Food"</li>
-			<li>Pay attention for Date/Hour to take your order done</li>	
-			<li>Pay online using PayPal, Credit Cards etc</li>
+			<li><a href="javascript:mostraImagem(1)" id="id">Choose appetizer and drinks</a></li>
+			<li><a href="javascript:mostraImagem(2)" id="id">Pay attention on delay on "Bar Code Time to Find Ingredients"</a></li>
+			<li><a href="javascript:mostraImagem(3)" id="id">Pay attention on delay on "Bar Code Time to Prepare Food"</a></li>
+			<li><a href="javascript:mostraImagem(4)" id="id">Pay attention on Date/Hour to take your order done</a></li>	
+			<li><a href="javascript:mostraImagem(5)" id="id">Pay online using PayPal, Credit Cards etc</a></li>
 	</ul>
 </div>
 
