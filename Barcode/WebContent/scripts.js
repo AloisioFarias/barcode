@@ -10,15 +10,17 @@ imgArray[2] = new Image();
 imgArray[2].src = "./css2/images/FLUXO_INGRED.jpg";
 
 imgArray[3] = new Image();
-imgArray[3].src = "./css2/images/FLUXO_INGRED.jpg";
+imgArray[3].src = "./css2/images/FLUXO_FOOD.jpg";
 
 imgArray[4] = new Image();
-imgArray[4].src = "./css2/images/FLUXO_INGRED.jpg";
+imgArray[4].src = "./css2/images/FLUXO_DONE.jpg";
 
 imgArray[5] = new Image();
-imgArray[5].src = "./css2/images/FLUXO_INGRED.jpg";
+imgArray[5].src = "./css2/images/PAGAMENTO.jpg";
 
-window.onload = mostraImagem(index);
+function unloadEvt() {
+    document.location.href='DataSourceServlet';
+}
 
 function mostraImagem(index) {
 	

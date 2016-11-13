@@ -27,7 +27,7 @@
 				<li><a href="#">About us</a></li>
 				<li><a href="#">Menu</a></li>
 				<li><a href="#">Services</a></li>
-				<li><a href="#">Forum</a></li>
+				<li><a href="http://localhost:8080/jforum/forums/list.page">Forum</a></li>
 			</ul>
 		</div>
 	</div><div class="inner_copy"></div>
